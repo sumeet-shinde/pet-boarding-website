@@ -42,7 +42,7 @@
 <p>Admin users list Page</p></br></br>
 
 <img height=450 src="https://user-images.githubusercontent.com/60615344/169716607-18f60a71-a3e5-445f-b137-7e680f0dfc7b.png">
-<p>Admin can approve bookings by this Page</p></br></br>
+<p>Admin can approve bookings by this Page</p><br/>
 
 <h3>Tech Stack:</h3>
 <ul>
